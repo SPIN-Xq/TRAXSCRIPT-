@@ -3,3 +3,5 @@ loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
 RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
 ID="f42fc2ab-5013-457a-828b-3a079fd57c54";
 loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3e0e5bada3453caa36246a325f2345f3.lua"))()
